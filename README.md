@@ -10,7 +10,7 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 
 ## Screenshots
 
-![Screenshot 1]()
+![Screenshot 1]('Screenshot.png')
 Caption for Screenshot 1.
 
 ## Demo
