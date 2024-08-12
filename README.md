@@ -7,7 +7,7 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 - Display current weather conditions (temperature, description, wind speed, etc.).
 - Option to view weather in different units (Celsius, Fahrenheit, etc.).
 - Search functionality to get weather data for any city.
-- 
+  
 ## Getting Started
 
 ### Prerequisites
