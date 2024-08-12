@@ -7,15 +7,7 @@ This project is a simple weather application built using HTML, CSS, and JavaScri
 - Display current weather conditions (temperature, description, wind speed, etc.).
 - Option to view weather in different units (Celsius, Fahrenheit, etc.).
 - Search functionality to get weather data for any city.
-
-## Screenshots
-
-![Screenshot 1]('Screenshot.png')
-Caption for Screenshot 1.
-
-## Demo
-Provide a link to a live demo of your weather app (if available).
-
+- 
 ## Getting Started
 
 ### Prerequisites
@@ -29,11 +21,11 @@ To install the weather app, follow these steps:
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/Piyushraj7982/SkyScape-Weather_App.git
     ```
 2. Change to the project directory
     ```bash
-    cd weather-app
+    cd SkyScape-Weather_App
     ```
 
 ## Usage
@@ -68,8 +60,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
-- Email: your-email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: prajsm5@gmail.com
+- GitHub: [Piyushraj7982](https://github.com/Piyushraj7982)
 
 ## Acknowledgements
 - [OpenAI](https://www.openai.com/) for the AI assistance
