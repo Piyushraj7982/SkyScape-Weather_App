@@ -55,9 +55,6 @@ Contributions are always welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature-name`)
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 - Email: prajsm5@gmail.com
@@ -67,3 +64,5 @@ If you have any questions or suggestions, feel free to reach out:
 - [OpenAI](https://www.openai.com/) for the AI assistance
 - [Weather API Provider] for providing weather data
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
